@@ -1,5 +1,6 @@
 class Movie():
-
+	
+	#Create Movie object
 	def __init__(self, title, poster, trailer):
 		self.title = title
 		self.poster_image_url = poster
