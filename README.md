@@ -9,6 +9,6 @@ Download the zip
 * Browser
 
 ##Run
-Run the file in command:<br>
+Run the file in terminal:<br>
  python \<path\>/entertainment_center.py
 
